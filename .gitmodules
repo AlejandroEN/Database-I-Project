@@ -1,0 +1,4 @@
+[submodule "Database-I-Project-Code"]
+	url = https://github.com/AlejandroEN/Database-I-Project-Code.git
+[submodule "Database-I-Project-LaTex"]
+	url = https://github.com/AlejandroEN/Database-I-Project-LaTex.git
